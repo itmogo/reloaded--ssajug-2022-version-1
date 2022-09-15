@@ -28,6 +28,14 @@
     z-index: 99;
 
 }
+.bgd-primary {
+    background-color: rgb(197, 149, 16);
+}
+
+.btnw-outline-primary{
+    color: var(--primary);
+    outline: invert;
+}
 
 
 /*** Spinner ***/
@@ -102,7 +110,7 @@
     position: sticky;
     z-index: 10;
     top: 100px;
-    width: ;
+    
   }
 .navbar .navbar-brand,
 .navbar a.btn {
