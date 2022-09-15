@@ -95,6 +95,16 @@
     background-color: rgb(197, 149, 16);
 }
 
+
+.bmain {
+    text-align: center;
+    margin-bottom: 40px;
+    border: 1px solid rgb(197, 149, 16);
+    position: sticky;
+    z-index: 10;
+    top: 100px;
+    width: 100%;
+  }
 .navbar .navbar-brand,
 .navbar a.btn {
     height: 75px;
